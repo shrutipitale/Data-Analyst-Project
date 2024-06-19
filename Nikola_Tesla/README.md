@@ -5,19 +5,27 @@ This project provides various scripts and methods to perform web scraping and da
 
 Installation
 To get started, clone this repository and install the required packages:
-Firstly, install the Selenium
-pip install selenium
 
-Secondly, install the beautifulsoup4
-pip install requests beautifulsoup4
+# Web Scraping Project
 
-Thirdly, install the boilerpipe3
-!pip install boilerpipe3
-
-Fourth, install the feedparser
-!pip install feedparser
+This project is designed to facilitate web scraping using various Python libraries. The tools and libraries used in this project include Selenium, Requests, BeautifulSoup, Boilerpipe, and Feedparser.
 
 References:
 https://medium.com/analytics-vidhya/web-scraping-with-python-beginner-to-advanced-10daaca021f3
 
 https://www.zenrows.com/blog/web-crawler-python#extract-data-into-csv
+
+
+## Installation
+
+To get started, you need to install the required Python packages. You can do this by running the following commands:
+
+First, install Selenium:
+```bash
+pip install selenium
+
+pip install requests beautifulsoup4
+
+pip install boilerpipe3
+
+pip install feedparser
