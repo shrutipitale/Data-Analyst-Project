@@ -1,21 +1,10 @@
 # Web Scarping of the nikola tesla 
 
-1.Scraping: Scraping refers to the process of extracting data from websites. This could involve pulling
-information from web pages, APIs, or any other online source. Web scraping can be done manually,
-but it's often automated using software tools known as web scrapers or crawlers. Scraping can involve
-extracting text, images, links, or any other content available onthe web.
+Web Scraping and Data Extraction Project
+This project provides various scripts and methods to perform web scraping and data extraction from websites, specifically using Wikipedia as an example. The scripts leverage Python libraries like Selenium, Requests, BeautifulSoup, Pandas, Boilerpipe, and Feedparser.
 
-2.Crawling: Crawling is the process of systematically browsing the internet to discover and index web
-pages. Search engines like Google use crawlers (also known as spiders or bots) to traverse the web,
-following links from one page to another and gathering information about eachpage they visit. Crawling
-is a crucial step in indexing web content, enabling search engines to provide relevant results to users.
-
-3.Parsing: Parsing involves breaking down a piece of data into its component parts and interpreting its
-structure. In the context of web scraping, parsing is often used to extract specificinformation from HTML
-or other markup languages. For example, a parser might extract the text of a particular HTML element,
-extract attributes from tags, or identify patterns within the text.
-Parsing is essential for extracting meaningful data from raw web pages during the scraping process.
-
+Installation
+To get started, clone this repository and install the required packages:
 Firstly, install the Selenium
 pip install selenium
 
