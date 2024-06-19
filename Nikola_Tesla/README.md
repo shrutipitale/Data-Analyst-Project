@@ -20,7 +20,7 @@ https://www.zenrows.com/blog/web-crawler-python#extract-data-into-csv
 
 To get started, you need to install the required Python packages. You can do this by running the following commands:
 
-First, install Selenium:
+First, install Selenium,beautifulsoup4,boilerpipe3 and feedparser
 ```bash
 pip install selenium
 
